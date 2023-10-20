@@ -18,6 +18,7 @@ Practice fair use. Start with the README.md file, then view [index.html](index.h
 Version history is documented through GitHub best practices.
 ### Contributing
 **Sydney Bandarra:** Cold Weather
+
 **Leyton McDonald:** Warm Weather
 ### Credits
 All images sourced from [Pexels](https://www.pexels.com/)
