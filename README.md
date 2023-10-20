@@ -26,6 +26,3 @@ All images sourced from [Pexels](https://www.pexels.com/)
 MIT License
 
 
-
-
-
