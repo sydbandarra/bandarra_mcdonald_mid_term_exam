@@ -1,8 +1,9 @@
 # BANDARRA MACDONALD MIDTERM EXAM
 ### Welcome to Our Respository: Cold Weather Vs. Warm Weather
-![senic_landscape](img/readme_banner.jpg)
 
 **bandarra_mcdonald_mid-term-exam**
+
+![senic_landscape](img/readme_banner.jpg)
 
  This is a collaborative GitHub Repo for the Multi-Media Authouring MMED-1054 midterm exam.
 
