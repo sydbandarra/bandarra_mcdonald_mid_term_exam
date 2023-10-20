@@ -6,6 +6,7 @@
  This is a collaborative GitHub Repo for the Multi-Media Authouring MMED-1054 midterm exam.
 
  **Sydney Bandarra:** Cold Weather
+
  **Leyton McDonald:** Warm Weather
 ### Installation
 No installation required
